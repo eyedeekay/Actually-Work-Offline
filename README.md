@@ -30,5 +30,5 @@ or something like that, fork it and submit a PR.
 
 ## BTW
 
-Oh by the say, Chrome's UI/UX for the equivalent operation is even dumber and getting worse.
-But I don't expect anything from Chrome. Mozilla should fucking know better.
+Oh by the say, Chrome's UI/UX for the equivalent operation(s) is(are) even dumber and getting
+worse. But I don't expect anything from Chrome. Mozilla should fucking know better.
