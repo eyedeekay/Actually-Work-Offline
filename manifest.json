@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2,
+    "name": "Actually Work Offline",
+    "description": "Uses the WebRequest API to create a work offline mode that doesn't assume that when you checked 'work offline' you actually want to get online and were just confused about what you mean.",
+    "version": "2.0",
+    "icons": {
+        "48": "icons/block.svg",
+        "96": "icons/block.svg"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "awo@eyedeekay.github.io",
+            "strict_min_version": "91.0"
+        }
+    },
+    "background": {
+        "scripts": [
+            "background/proxy-handler.js"
+        ]
+    },
+    "options_ui": {
+        "page": "options/options.html",
+        "browser_style": true
+    },
+    "permissions": [
+        "management",
+        "webRequest",
+        "webRequestBlocking",
+        "storage",
+        "<all_urls>"
+    ]
+}
