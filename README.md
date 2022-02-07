@@ -21,7 +21,7 @@ the GUI without starting a browsing session. That is so fucking stupid it makes 
 fucking scream. And it gets worse, on the off change you make it to the profiles menu and
 realize "Hey I should fucking look at this before I run Firefox **every fucking time**" and
 check "Work Offline" and start a browsing session, If you by chance visit a remote site in
-the browser once, it will ask you to refresh the page and then **end you offline browsing**
+the browser once, it will ask you to refresh the page and then **end your offline browsing**
 **session**. This is confusing and self-defeating. Much like Mozilla's routine behavior TBH.
 
 With this extension, **Work Offline means Work Offline** and nothing else, until you close
